@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    
+}
+body {
+    margin: 0;
+    overflow-x: hidden;
+    background-color: rgb(4,4,80);
+    
+}
+.topo {
+    background-color: rgb(4,4,50);
+    padding: 20px;
+}
+.imagem-topo {
+    width: 100%; height: 300px;
+    border-radius: 15px;
+}
+.titulo-topo {
+    text-align: center;
+}
+.paragrafo-topo {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.menu {
+    background-color: rgb(3,3,36);
+    overflow: hidden;
+}
+.menu a {
+    color: white;
+    padding: 14px 16px;
+    display: block;
+    text-decoration: none;
+}
+body h1 {
+  color: white;
+}
+body h2 {
+  color: white;
+  padding: 20px;
+}
+footer {
+  color: white;
+}
+div {
+  width: 180px;
+  background-color: rgb(3,3,55);
+  border-radius: 30px;
+
+}
+
+footer {
+  padding: 50px;
+  background-color: rgb(4,4,40);
+  text-align: center;
+}
